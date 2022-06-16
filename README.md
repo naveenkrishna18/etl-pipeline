@@ -1,7 +1,7 @@
 
 # ETL Pipeline
 
-A Sample ETL pipeline designed using pyspark and various AWS services.
+A Sample ETL pipeline designed using pyspark and various AWS   services.
 
 
 ## Authors
@@ -34,4 +34,9 @@ To deploy the resources in the cloud, run
   terraform apply
 ```
 
+
+
+## License
+
+[GNU](https://github.com/naveenkrishna18/etl-pipeline/blob/main/LICENSE)
 
