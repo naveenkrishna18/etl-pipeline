@@ -18,7 +18,7 @@ This ETL pipeline designed using pyspark and various AWS   services.
 - Spark with Python (PySpark)
 
 ## Architecture
-![Architecture](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Architecture]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/naveenkrishna18/etl-pipeline/blob/main/Images/ETL%20Pipeline%20Architecture.jpg))
 
 
 ## Deployment
