@@ -1,5 +1,5 @@
 
-# What is a ETL Pipeline ??
+# ETL Pipeline 
 
 A ETL pipeline is a set of steps or process which is done inorder to move data from the data source to databases or data warehouse. A ETL pipeline is usually used for storing and managing data for the purpose of Data Analytics and to obtain business insights.
 
